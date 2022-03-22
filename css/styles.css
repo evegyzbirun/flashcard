@@ -1,0 +1,22 @@
+p {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+
+#JavaScript  {
+  display: none;
+}
+
+.clickable, .clickable2   {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable, .clickable2:hover {
+  text-decoration: underline;
+}
+
+#Operators  {
+  display: none;
+};
